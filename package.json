@@ -1,0 +1,16 @@
+{
+  "name": "user.workflow.E98D0284-BFAE-4EE2-A354-B00D200A9769",
+  "version": "1.0.0",
+  "description": "[![NPM](https://nodei.co/npm/alfred-google-translate.png)](https://nodei.co/npm/alfred-google-translate/)",
+  "main": "index.js",
+  "dependencies": {
+    "alfy": "0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
